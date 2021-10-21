@@ -1,0 +1,16 @@
+name: DynamicStructures
+version: '${project.version}'
+main: castelcraft.dynamicstructures.DynamicStructures
+api-version: 1.17
+authors: [ tomax311 ]
+description: It will add dynamic and customizable structures to make maps more living
+commands:
+  die:
+    description: a way to suicide yourself
+    usage: /<command>
+  god:
+    description: a way to get invulnarable
+    usage: /<command>
+  feed:
+    description: a easy sulution to font die of hunger, to use do /feed [amount]
+    usage: :/<command>

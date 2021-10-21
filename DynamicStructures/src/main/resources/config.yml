@@ -1,0 +1,6 @@
+#this is the default amount of food that you get wen you doo /feed without arguments
+Food: 20
+
+FeedMessage: "Thanks for using this command"
+
+DeadMessage: "you wanted to die"
